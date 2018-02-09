@@ -73,7 +73,7 @@ Prepare to answer the following questions...
 ## Setup (5 minutes / 0:20)
 
 ```
-$ git clone https://github.com/ga-wdi-exercises/scribble.git
+$ git clone https://git.generalassemb.ly/ga-wdi-exercises/scribble.git
 $ cd scribble
 $ git checkout pre-devise
 $ bundle install
@@ -409,7 +409,7 @@ styles in `app/assets/stylesheets/application.css`
 
 ## User Authorization
 
-Want to take user permissions to the next level? Try implementing an authorization solution on top of Devise using [CanCanCan](https://github.com/ga-wdi-lessons/cancancan)
+Want to take user permissions to the next level? Try implementing an authorization solution on top of Devise using [CanCanCan](https://git.generalassemb.ly/ga-wdi-lessons/cancancan)
 
 ## OAuth and Third Party Login
 
